@@ -1,4 +1,4 @@
-# Budget App
+# Expenses Planner
 
 ## Screenshots
 
